@@ -225,6 +225,40 @@ public class Operators_and_Loops {
 
         // Question no 14 =  Tell if the number in the input is prime or not.
 
+       /* System.out.println(" Enter the Number which you want to check if it is a prime number or not .");
+
+        int num = sc.nextInt();
+        if(num % num == 0 && num % 2 != 0 && num % 3 != 0  ){
+            if ( num == 1 || num == 0  ){ // Here Exception is occurred Because we can not divide with 0 .
+                System.out.println(" It is not a Prime number ");
+            } else {
+                System.out.println(num + " It is a Prime number ");
+            }
+        }else {
+            System.out.println(" It is not a Prime number ");
+        }*/
+
+        // Question no 15 = Print all values between 1  and 100, except if it’s a multiple of 3
+
+     /*    for (int a = 1 ; a <= 100 ;  a++){
+             if (a % 3 == 0 )continue;
+             {
+                 System.out.println(a);
+             }
+         }*/
+
+        // Question no 16 = Print all factors of the number in the input.
+      /*  int num = sc.nextInt();
+        for (int a = 1; a <=1000000 ; a++ ){
+            System.out.println(" Enter number which you want to check how many factors of this numbers ");
+            if ( num % a == 0) {
+                System.out.println(  a + " Factors of  " + num  );
+
+            }
+        }*/
+
+
+        // Here I complete the all practice problem form pw skills topic operators and experssion
 
     }
 
