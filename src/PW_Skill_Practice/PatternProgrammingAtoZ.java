@@ -25,8 +25,8 @@ public class PatternProgrammingAtoZ {
       }*/
 
 
-        // Here A is created for any number which is odd and greater then 5
-      /*  System.out.println(" Enter the number, which is odd and greater then 5 ");
+        // Here A is created for any number which is odd and greater than 5
+      /*  System.out.println(" Enter the number, which is odd and greater than 5 ");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
@@ -57,7 +57,7 @@ public class PatternProgrammingAtoZ {
 
         // Here C Pattern is created by Arbaj Alam
 
-      /*  System.out.println(" Enter the number, which is odd and greater then 6 ");
+      /*  System.out.println(" Enter the number, which is odd and greater than 6 ");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
@@ -73,7 +73,7 @@ public class PatternProgrammingAtoZ {
 
         // Here D Pattern is created by Arbaj Alam
 
-     /*   System.out.println(" Enter the number, which is odd and greater then 3  ");
+     /*   System.out.println(" Enter the number, which is odd and greater than 3  ");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
@@ -88,7 +88,7 @@ public class PatternProgrammingAtoZ {
 
         // Here E pattern is created by Arbaj Alam
 
-      /*  System.out.println(" Enter the number, which is odd and greater then 6  ");
+      /*  System.out.println(" Enter the number, which is odd and greater than 6  ");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
@@ -102,7 +102,7 @@ public class PatternProgrammingAtoZ {
         }*/
 
         // Here F pattern is created by Arbaj Alam
-       /* System.out.println(" Enter the number, which is odd and greater then 6 ");
+       /* System.out.println(" Enter the number, which is odd and greater than 6 ");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
@@ -116,7 +116,7 @@ public class PatternProgrammingAtoZ {
         }*/
 
         // Here G is created by Arbaj Alam
-       /* System.out.println(" Enter the number, which is odd and greater then 6");
+       /* System.out.println(" Enter the number, which is odd and greater than 6");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
@@ -133,7 +133,7 @@ public class PatternProgrammingAtoZ {
 
         // Here H is created by Arbaj Alam
 
-      /*  System.out.println(" Enter the number, which is odd and greater then 6");
+      /*  System.out.println(" Enter the number, which is odd and greater than 6");
         int num =  sc.nextInt();
         for (int i = 0 ; i < num ; i++){
             for (int j = 0; j< num ; j++ ){
