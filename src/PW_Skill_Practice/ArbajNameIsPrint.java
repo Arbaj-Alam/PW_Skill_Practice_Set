@@ -4,6 +4,7 @@ public class ArbajNameIsPrint {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
+        System.out.println(" Enter the number which is greater then 6 nad less then 10 ");
         int num = sc.nextInt();
 
         for (int i = 0 ; i < num ; i++){
